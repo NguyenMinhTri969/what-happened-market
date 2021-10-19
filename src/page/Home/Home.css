@@ -1,0 +1,9 @@
+.main-banner {
+    display: flex;
+    background-image: url("../../images/main-banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 52rem;
+
+}

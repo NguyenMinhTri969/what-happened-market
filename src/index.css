@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&display=swap');
+
+
+body {
+  width: 100%;
+  max-width: 100em;
+  margin: 0 auto; /* Center alignment */
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Page Best*/
+.product__best {
+  display:inline-block;
+  background-image: url("./images/bes-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60rem;
+  text-align: center;
+  width: 100%;
+}
+
+.title__best {
+  color: #f96400;
+  margin: 7rem 0 0 0;
+  margin: auto;
+  margin-top: 7rem;
+  width: 40%;
+  font-weight: bold;
+}
+
+/* best_item */
+.item__best {
+  display: inline-flex;
+  width: 80%;
+  margin-top: 2.5rem
+}
+
+/* End bestitem */
+
+/* End Page Best */

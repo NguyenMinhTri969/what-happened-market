@@ -1,0 +1,26 @@
+.nav {  
+    background: #1f1f1f;  
+    padding: 0 2rem;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.top-bar__links{
+    display: flex;
+    align-items: center;
+    padding: 1.2rem 0;
+    margin: 0;
+    list-style-type: none;
+}
+.top-bar__links > li > a,
+.top-bar__links > li > p{
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+.col-logo {
+    padding: 1rem 0;
+    text-align: center;
+}
+  
