@@ -36,17 +36,6 @@ function Footer() {
         position: 'relative',
         zIndex: '100'
     }
-    const lineStyle = {
-        width: '90%',
-        height: '1px',
-        backgroundColor: '#f4f4f4',
-        margin: '1px auto',
-    }
-    const footerStyle = {
-            display:'flex', 
-            justifyContent: 'space-between', 
-            alignItems: 'center'
-    }
     return (
         <section style={sectionStyle}>
             <DescriptionBig title={'WHAT HAPPENED'} des={'How to create mobile-optimized videos in minutes. Not a designer, every team makes a lot of videos Can be trimmed. Take the first '}/>
@@ -67,13 +56,13 @@ function Footer() {
             <img src={objVideo9} alt="obj_vi" style={{position: 'absolute',bottom: '22rem',right: '-16rem' }}></img>
             {/* objects */}
 
-            <div style={lineStyle}></div>
 
             {/* nav footer */}
-            <div style={footerStyle}>
+            {/* <div style={footerStyle}>
+                <div style={lineStyle}></div>
                 <div></div>
                 <div></div>
-            </div>
+            </div> */}
         </section>
     )
 }

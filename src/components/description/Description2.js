@@ -1,3 +1,5 @@
+import './Description.css'
+
 function Description(props) {
     const divStyle = {
 
@@ -14,13 +16,13 @@ function Description(props) {
         fontSize: '0.9rem',
         lineHeight: '1.75',
         width: '35%',
-        margin: '0 auto'
+        margin: '0 auto',
     }
   
     return (
         <div style={divStyle}>
             <p style={titleStyle}>{props.title}</p>
-            <p style={desStyle}>{props.des}</p>
+            <p className="description2" style={desStyle}>{props.des}</p>
         </div>
     )
 }

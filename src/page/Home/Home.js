@@ -7,6 +7,7 @@ import Best from "../listbest/Best";
 import ListItem from '../listitem/listItem';
 import Brand from '../brand/Brand';
 import Issue from '../issue/Issue';
+import Video from '../videofooter/Video';
 import Footer from '../footer/Footer';
 
 function Home() {
@@ -32,6 +33,7 @@ function Home() {
             {/* END HAPPEND'S ISSUE */}
 
             {/* FOOTER */}
+            <Video/>
             <Footer/>
             {/* END FOOTER */}
         </div>
