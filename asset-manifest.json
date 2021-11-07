@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/what-happened-market/static/css/main.02c7f5fd.chunk.css",
-    "main.js": "/what-happened-market/static/js/main.1963c093.chunk.js",
-    "main.js.map": "/what-happened-market/static/js/main.1963c093.chunk.js.map",
-    "runtime-main.js": "/what-happened-market/static/js/runtime-main.cd6101fa.js",
-    "runtime-main.js.map": "/what-happened-market/static/js/runtime-main.cd6101fa.js.map",
-    "static/js/2.23edfe6f.chunk.js": "/what-happened-market/static/js/2.23edfe6f.chunk.js",
-    "static/js/2.23edfe6f.chunk.js.map": "/what-happened-market/static/js/2.23edfe6f.chunk.js.map",
-    "static/js/3.fb793a2b.chunk.js": "/what-happened-market/static/js/3.fb793a2b.chunk.js",
-    "static/js/3.fb793a2b.chunk.js.map": "/what-happened-market/static/js/3.fb793a2b.chunk.js.map",
+    "main.css": "/what-happened-market/static/css/main.b3fe2a37.chunk.css",
+    "main.js": "/what-happened-market/static/js/main.4b08f1ef.chunk.js",
+    "main.js.map": "/what-happened-market/static/js/main.4b08f1ef.chunk.js.map",
+    "runtime-main.js": "/what-happened-market/static/js/runtime-main.a6900cd7.js",
+    "runtime-main.js.map": "/what-happened-market/static/js/runtime-main.a6900cd7.js.map",
+    "static/js/2.288de05f.chunk.js": "/what-happened-market/static/js/2.288de05f.chunk.js",
+    "static/js/2.288de05f.chunk.js.map": "/what-happened-market/static/js/2.288de05f.chunk.js.map",
+    "static/js/3.82a8127e.chunk.js": "/what-happened-market/static/js/3.82a8127e.chunk.js",
+    "static/js/3.82a8127e.chunk.js.map": "/what-happened-market/static/js/3.82a8127e.chunk.js.map",
     "index.html": "/what-happened-market/index.html",
-    "static/css/main.02c7f5fd.chunk.css.map": "/what-happened-market/static/css/main.02c7f5fd.chunk.css.map",
-    "static/js/2.23edfe6f.chunk.js.LICENSE.txt": "/what-happened-market/static/js/2.23edfe6f.chunk.js.LICENSE.txt",
+    "static/css/main.b3fe2a37.chunk.css.map": "/what-happened-market/static/css/main.b3fe2a37.chunk.css.map",
+    "static/js/2.288de05f.chunk.js.LICENSE.txt": "/what-happened-market/static/js/2.288de05f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/what-happened-market/static/media/bes-bg.08b8b84f.png",
     "static/media/best-image-01.dc8ef0b4.png": "/what-happened-market/static/media/best-image-01.dc8ef0b4.png",
     "static/media/best-image-02.e8fa441b.png": "/what-happened-market/static/media/best-image-02.e8fa441b.png",
@@ -49,9 +49,9 @@
     "static/media/window.b51fe54e.png": "/what-happened-market/static/media/window.b51fe54e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd6101fa.js",
-    "static/js/2.23edfe6f.chunk.js",
-    "static/css/main.02c7f5fd.chunk.css",
-    "static/js/main.1963c093.chunk.js"
+    "static/js/runtime-main.a6900cd7.js",
+    "static/js/2.288de05f.chunk.js",
+    "static/css/main.b3fe2a37.chunk.css",
+    "static/js/main.4b08f1ef.chunk.js"
   ]
 }
