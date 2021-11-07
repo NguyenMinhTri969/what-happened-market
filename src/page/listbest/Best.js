@@ -1,6 +1,8 @@
 import Product from "./Product";
 import Grid from "@mui/material/Grid";
 
+import { Link } from 'react-router-dom';
+
 import bg1 from '../../images/best-image-01.png';
 import bg2 from '../../images/best-image-02.png';
 import bg3 from '../../images/best-image-03.png';
@@ -21,13 +23,13 @@ function Best() {
             <div className="item__best">
                 <Grid container spacing={0}>
                     <Grid item xs={4}>
-                        <Product bg={bg1} production={production1}/>
+                        <Link to="/"><Product bg={bg1} production={production1}/></Link>
                     </Grid>
                     <Grid item xs={4}>
-                        <Product bg={bg2} production={production2}/>
+                        <Link to="/"><Product bg={bg2} production={production2}/></Link>
                     </Grid>
                     <Grid item xs={4}>
-                        <Product bg={bg3} production={production3}/>
+                        <Link to="/"><Product bg={bg3} production={production3}/></Link>
                     </Grid>
                 </Grid>
             </div>

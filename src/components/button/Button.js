@@ -8,7 +8,8 @@ function Button() {
         fontSize: '1rem',
         padding: '0.8rem 1.8rem',
         lineHeight: '1rem',
-
+        borderRadius: '3px',
+        cursor: 'pointer'
     }
     const divStyle = {
         with: '100%',
