@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/what-happened-market/static/css/main.b3fe2a37.chunk.css",
-    "main.js": "/what-happened-market/static/js/main.4b08f1ef.chunk.js",
-    "main.js.map": "/what-happened-market/static/js/main.4b08f1ef.chunk.js.map",
+    "main.js": "/what-happened-market/static/js/main.27c99a1c.chunk.js",
+    "main.js.map": "/what-happened-market/static/js/main.27c99a1c.chunk.js.map",
     "runtime-main.js": "/what-happened-market/static/js/runtime-main.a6900cd7.js",
     "runtime-main.js.map": "/what-happened-market/static/js/runtime-main.a6900cd7.js.map",
     "static/js/2.288de05f.chunk.js": "/what-happened-market/static/js/2.288de05f.chunk.js",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.a6900cd7.js",
     "static/js/2.288de05f.chunk.js",
     "static/css/main.b3fe2a37.chunk.css",
-    "static/js/main.4b08f1ef.chunk.js"
+    "static/js/main.27c99a1c.chunk.js"
   ]
 }
