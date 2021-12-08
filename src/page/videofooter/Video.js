@@ -21,6 +21,7 @@ function Footer() {
         paddingTop: '8%',
         paddingBottom: '8%',
         position: 'relative',
+        overflowX: 'hidden'
       };
     const buttonStyle = {
         marginTop: '3rem',
